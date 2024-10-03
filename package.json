@@ -2,9 +2,12 @@
     "name": "fathom",
     "version": "1.0.0",
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "dependencies": {
-      "express": "^4.17.1"
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.4.13"
     }
-  }
+}
